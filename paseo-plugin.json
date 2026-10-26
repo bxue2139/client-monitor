@@ -1,0 +1,9 @@
+{
+  "id": "client-monitor",
+  "name": "Client monitor",
+  "description": "Live count of Paseo clients connected to this daemon in the sidebar footer, with the client list, recent connects and disconnects, and a toast when a new device connects",
+  "media": [],
+  "requirements": {
+    "paseo": ">=0.13.0"
+  }
+}
